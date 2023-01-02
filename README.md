@@ -4,7 +4,7 @@
 
 ### List of exercies in this repo:
 * let and const Exercise.
-* Arrow functionos Exercise.
+* Arrow functions Exercise.
 * rest / spread Exercise.
 * Object Enhancements Exercise.
 * Destructuring Exercise.
